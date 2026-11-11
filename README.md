@@ -53,7 +53,7 @@ Open the main scene from Assets/Scenes/start screen and press Play.
 Contributors names and contact info
 
 Michelle Delgernaran
-[@mdelgernaran](michelled2655@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/michelledelgernaran/)
 
 ## Version History
 
