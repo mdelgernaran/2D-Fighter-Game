@@ -1,6 +1,8 @@
 # 2D-Fighter-Game
 2D retro-style fighter game using Unity. Initially designed for CS A-Level NEA component, received an A* on the NEA.
 
+![Gameplay screenshot](ScreenRecordings/gameplay-recording.gif)
+
 # Description
 My program aims to solve issues surrounding the variety of players on a game platform. Beginners
 and casual players are often overwhelmed by heavy storylines or overly complicated techniques to
