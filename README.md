@@ -17,15 +17,16 @@ The purpose of this project was to effectively implement object-oriented paradig
 - AI opponent, modelling a finite state machine
 
 # Controls
-- A : Left
-- D : Right
-- Space : Jump
-- Shift : Block
-
--  E : Jab
--  Q : Uppercut
--  Left-click : Front Kick
--  Right-click : Crescent Kick
+Key | Action
+--- | --- 
+A | Left
+D | Right
+Space | Jump
+Shift | Block
+E | Jab
+Q | Uppercut
+Left-click | Front Kick
+Right-click | Crescent Kick
 
 ## Getting Started
 
